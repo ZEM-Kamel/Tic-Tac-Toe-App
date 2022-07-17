@@ -6,7 +6,7 @@ A new Flutter project.
 
 This project is a starting point for a Flutter application.
 
-![x-o mockup](https://github.com/ZEM-Kamel/Tic-Tac-Toe-App/blob/main/mockup/mockup.png)
+![x-o mockup](https://github.com/ZEM-Kamel/mockups/blob/main/mockups/x-o%20mockup.png)
 
 A few resources to get you started if this is your first Flutter project:
 
