@@ -1,10 +1,12 @@
-# tic_tac_game
+# Tic-Tac-Toe-Game
 
 A new Flutter project.
 
 ## Getting Started
 
 This project is a starting point for a Flutter application.
+
+![x-o mockup](https://github.com/ZEM-Kamel/Tic-Tac-Toe-App/blob/main/mockup/mockup.png)
 
 A few resources to get you started if this is your first Flutter project:
 
